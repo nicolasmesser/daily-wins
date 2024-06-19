@@ -11,3 +11,6 @@ You need 3 daily wins:
 - a spiritual win (meditating, studying, growing, ...)
 
 Be a complete winner!
+
+### Tools & Technologies
+SvelteKit, TailwindCSS
