@@ -13,4 +13,6 @@ You need 3 daily wins:
 Be a complete winner!
 
 ### Tools & Technologies
-SvelteKit, TailwindCSS
+SvelteKit, Svelte UX, TailwindCSS
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ed72fcc-f5b9-4c14-b9ba-d288ab057fc7/deploy-status)](https://app.netlify.com/sites/daily-wins/deploys)

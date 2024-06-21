@@ -21,12 +21,12 @@
   <main>
     <slot />
     <div class="container px-8">
-      <h1 class="text-3xl font-bold">Daily Wins</h1>
+      <h1 class="text-3xl font-bold"><a href="/">Daily Wins</a></h1>
       <p>You need 3 daily wins:</p>
       <ul class="list-disc list-inside">
-        <li>a <a href="/physical">physical</a> win (walking, running, swimming, ...)</li>
-        <li>a <a href="/mental">mental</a> win (reading, writing, creating, learning, ...)</li>
-        <li>a <a href="/spiritual">spiritual</a> win (meditating, studying, growing, ...)</li>
+        <li>a physical win (walking, running, swimming, ...)</li>
+        <li>a mental win (reading, writing, creating, learning, ...)</li>
+        <li>a spiritual win (meditating, studying, growing, ...)</li>
       </ul>
       <p class="font-bold">Be a complete winner!</p>
     </div>
